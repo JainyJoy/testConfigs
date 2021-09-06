@@ -1,7 +1,7 @@
 {
   "dataset": {
     "parallel-corpus": {
-      "label":"Parallel Dataset",
+      "label": "Parallel Dataset",
       "filters": [
         {
           "filter": "languagepair",
@@ -398,7 +398,7 @@
         },
         {
           "filter": "collectionMethod.collectionDescription",
-          "label":"Collection Method",
+          "label": "Collection Method",
           "values": [
             {
               "value": "machine-translated-post-edited",
@@ -679,7 +679,7 @@
       ]
     },
     "monolingual-corpus": {
-       "label":"Monolingual Dataset",
+      "label": "Monolingual Dataset",
       "filters": [
         {
           "filter": "sourceLanguage",
@@ -757,7 +757,7 @@
         },
         {
           "filter": "submitter.name",
-          "label":"Submitter",
+          "label": "Submitter",
           "values": [
             {
               "value": "Project Anuvaad",
@@ -767,8 +767,8 @@
         }
       ]
     },
-    "asr-unlabeled-dataset": {
-       "label":"Asr Unlabeled Dataset",
+    "asr-unlabeled-corpus": {
+      "label": "Asr Unlabeled Dataset",
       "filters": [
         {
           "filter": "sourceLanguage",
@@ -1118,8 +1118,8 @@
         }
       ]
     },
-    "ocr-dataset": {
-       "label":"OCR Dataset",
+    "ocr-corpus": {
+      "label": "OCR Dataset",
       "filters": [
         {
           "filter": "sourceLanguage",
@@ -1346,8 +1346,8 @@
         }
       ]
     },
-    "asr-dataset": {
-       "label":"ASR / TTS Dataset",
+    "asr-corpus": {
+      "label": "ASR / TTS Dataset",
       "filters": [
         {
           "filter": "sourceLanguage",
